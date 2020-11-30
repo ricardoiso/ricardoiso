@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hola, soy Ricardo 👋:earth_americas:
+
+<img src="https://raw.githubusercontent.com/ricardoiso/ricardoiso/master/gh-header-avila-min.jpg" alt="image from Ricardo Serrano - Avila">
+
+*Soy estudiante de **Ingeniería de Sistemas** en la Universidad Metropolitana en Venezuela*
+
+>"Como no sabía que era imposible, lo hice"
+> - Albert Einstein
 
 <!--
 **ricardoiso/ricardoiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+this should change
 -->
