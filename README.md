@@ -1,3 +1,8 @@
+
+<!--
+**ricardoiso/ricardoiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 # Hola, soy Ricardo 👋:man_technologist::earth_americas:
 
 <img src="/gh-header-avila-min.jpg" alt="image from Ricardo Serrano - Avila">
@@ -18,8 +23,8 @@
 -  Gmail: riicardoserrano@gmail.com :email:
 - Compartiendo información en <a href="https://www.linkedin.com/in/serranoiricardo/">LinkedIn</a> :briefcase:
 
-<!--
-**ricardoiso/ricardoiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-----------------------------------------------------------------------------------------------------------
 
 Here are some ideas to get you started:
 
