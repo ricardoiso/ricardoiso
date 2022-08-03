@@ -3,25 +3,31 @@
 **ricardoiso/ricardoiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hola, soy Ricardo 👋:man_technologist::earth_americas:
+<div align = "center"><h1> Hello there <a href="https://www.linkedin.com/in/serranor/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Ricardo Serrano</h1></div>
 
-<img src="/gh-header-avila-min.jpg" alt="image from Ricardo Serrano - Avila">
+# Hola, soy Ricardo <a href="https://github.com/ricardoiso"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-*Soy estudiante de **Ingeniería de Sistemas** en la Universidad Metropolitana en Venezuela :computer: :venezuela:*
+<img src="/rs-banner.png" alt="Banner image from Ricardo Serrano - Software Engineer">
 
->>>"Como no sabía que era imposible, lo hice"
+*I am a student of **Systems Engineering** at the Universidad Metropolitana in Venezuela :computer: :venezuela:*
+
+>>>"Since I didn't know it was impossible, I did it"
 >>>  \- Albert Einstein
 
-## Un poco sobre mi :superhero_man::ocean:
-- Actualmente estoy aprendiendo Data Science :chart_with_upwards_trend::bar_chart:
-- Estoy interesado en aprender Machine Learning :computer:
-- Sigo mejorando mis conocimientos en *Javascript* enfocado a **ReactJS**:electron:
-- Pregúntame lo que quieras, si te puedo ayudar lo haré :speech_balloon:
-- Con visión de graduarme en poco tiempo :man_student:
+## A little about me :superhero_man::ocean:
+- I am currently learning Data Science :chart_with_upwards_trend::bar_chart:
+- I am interested in learning Machine Learning :computer:
+- I keep improving my knowledge in *Javascript* focusing on **ReactJS**:electron:
+- Ask me anything you want, if I can help you I will :speech_balloon:
+- Future Engineer! :man_student:
 
-## Encuéntrame en 
--  Gmail: riicardoserrano@gmail.com :email:
-- Compartiendo información en <a href="https://www.linkedin.com/in/serranoiricardo/">LinkedIn</a> :briefcase:
+## Find me at
+- Gmail: riicardoserrano@gmail.com :email:
+- Sharing information on <a href="https://www.linkedin.com/in/serranor/">LinkedIn</a> :briefcase:
+- <a href="https://www.buymeacoffee.com/ricardoiso">Buy me a coffee!</a> ☕
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoiso&show_icons=true&locale=en" alt="ricardoiso stats" />
+</div>
 
 
 <!-----------------------------------------------------------------------------------------------------------
