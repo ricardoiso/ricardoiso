@@ -67,20 +67,22 @@ node{{NodeJs}}
 rest{{RestAPIs}}
 fb{{Firebase}}
 nest{{NestJS}}
-pst[("Postgres")]
-pg[("PgAdmin")]
+pst[("PostgreSQL")]
+pg[("pgAdmin")]
 docker[("Docker")]
  subgraph  BackEnd
 node
 fb
 rest
 nest
+pst
+pg
  end
  node --o rest
  rest --o nest
  nest --o pst
  nest --o pg
- docker --o rest
+ docker --o BackEnd
 ```
 
 ## Find me at
