@@ -37,16 +37,6 @@ fw2((NextJs))
 fw4((tailwind))
 fw5((Scss))
 fw6((mermaid))
-b1{NodeJs}
-b2{RestAPIs}
-b3{Firebase}
-b4{NestJS}
- subgraph  BackEnd
-b1
-b2
-b3
-b4
- end  
  subgraph Frameworks 
 fw1
 fw2
@@ -67,12 +57,25 @@ fw6
  f2 --> fw5
  f3 --o fw1
  f3 --o fw2
- fw2 --o b1
  f4 --> fw6
- b1 --o b2
- b2 --o b4
  ```
 
+ 
+```mermaid
+flowchart 
+b1{NodeJs}
+b2{RestAPIs}
+b3{Firebase}
+b4{NestJS}
+ subgraph  BackEnd
+b1
+b3
+b2
+b4
+ end
+ b1 --o b2
+ b2 --o b4
+```
 
 ## Find me at
 - Gmail: <a href="mailto:ricardoserranodev@gmail.com">
