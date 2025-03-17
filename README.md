@@ -32,11 +32,11 @@ f1(HTML)
 f2(Css)
 f3(Typescript)
 f4(Markdown)
-fw1((React))
-fw2((NextJs))
-fw4((tailwind))
-fw5((Scss))
-fw6((mermaid))
+fw1[React]
+fw2[NextJs]
+fw4[Tailwind]
+fw5[Scss]
+fw6[mermaid]
  subgraph Frameworks 
 fw1
 fw2
@@ -63,18 +63,24 @@ fw6
  
 ```mermaid
 flowchart 
-b1{NodeJs}
-b2{RestAPIs}
-b3{Firebase}
-b4{NestJS}
+node{{NodeJs}}
+rest{{RestAPIs}}
+fb{{Firebase}}
+nest{{NestJS}}
+pst[("Postgres")]
+pg[("PgAdmin")]
+docker[("Docker")]
  subgraph  BackEnd
-b1
-b3
-b2
-b4
+node
+fb
+rest
+nest
  end
- b1 --o b2
- b2 --o b4
+ node --o rest
+ rest --o nest
+ nest --o pst
+ nest --o pg
+ docker --o rest
 ```
 
 ## Find me at
