@@ -28,36 +28,42 @@
 
 ```mermaid
 flowchart 
-f1(HTML)
-f2(Css)
-f3(Typescript)
-f4(Markdown)
-fw1[React]
-fw2[NextJs]
-fw4[Tailwind]
-fw5[Scss]
-fw6[mermaid]
+html(HTML)
+css(Css)
+ts(Typescript)
+md(Markdown)
+react[React]
+next[Next.js]
+angular[Angular]
+three[Three.js]
+tailwind[Tailwind]
+scss[Scss]
+m[mermaid]
  subgraph Frameworks 
-fw1
-fw2
-fw4
-fw5
-fw6
+react
+next
+angular
+three
+tailwind
+scss
+m
  end
   subgraph  FrontEnd 
- f1
- f2
- f3
- f4
+ html
+ css
+ ts
+ md
  end  
- f1 --o f2
- f1 --o f3
- f1 --o f4
- f2 --> fw4
- f2 --> fw5
- f3 --o fw1
- f3 --o fw2
- f4 --> fw6
+ html --o css
+ html --o ts
+ html --o md
+ css --> tailwind
+ css --> scss
+ ts --o react
+ ts --o angular
+ ts --o three
+ react --o next
+ md --> m
  ```
 
  
