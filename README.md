@@ -70,7 +70,7 @@ nest{{NestJS}}
 pst[("PostgreSQL")]
 pg[("pgAdmin")]
 docker[("Docker")]
- subgraph  BackEnd
+ subgraph backend BackEnd
 node
 fb
 rest
@@ -82,7 +82,7 @@ pg
  rest --o nest
  nest --o pst
  nest --o pg
- docker --o BackEnd
+ docker --o backend
 ```
 
 ## Find me at
