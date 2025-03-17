@@ -92,11 +92,6 @@ pg
 - Sharing information on <a href="https://www.linkedin.com/in/serranor/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serranor/" alt="ricardoiso LinkedIn Badge"/>
   </a> :briefcase:
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoiso&show_icons=true&locale=en" alt="ricardoiso stats" />
-</div>
-
-## Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/serranor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serranor" height="30" width="40" /></a>
 <a href="https://instagram.com/_ricardoserrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ricardoserrano" height="30" width="40" /></a>
@@ -104,16 +99,9 @@ pg
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ricardoiso&label=Profile%20Views!&color=008080&style=flat" alt="ricardoiso" /> </p>
 
+<!-- <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoiso&show_icons=true&locale=en" alt="ricardoiso stats" />
+</div> -->
+
 ## Dump space 👽
-
-
-```mermaid
-flowchart TB
- A>"Computer"]  
- B[("Programs")] 
- C[("Tools")]
- A --> B
- A --> C
-``` 
 
 <img alt="dsmark" align="center"  height="50%" width="100%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
