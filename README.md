@@ -18,7 +18,7 @@
 - I keep improving my knowledge in *Javascript* focusing on **ReactJS**:electron:
 - Ask me anything you want, if I can help you I will :speech_balloon:
 - Future Engineer! :man_student:
-<p align="left"> <img align="center" alt="visitor badge" width="80px" src="https://visitor-badge.glitch.me/badge?page_id=ricardoiso.visitor-badge" alt="ricardoiso visitors"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoiso&label=Profile%20views&color=0e75b6&style=flat" alt="ricardoiso" /> </p>
 
 ## Find me at
 - Gmail: riicardoserrano@gmail.com :email:
