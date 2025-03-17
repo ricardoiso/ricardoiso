@@ -20,9 +20,58 @@
 ## A little about me 🦸🏻🌊
 - Creating highly usable experiences with **Next.js** 🧑🏻‍💻
 - Playing with the *3D world* with **Three.js** 🌐
-- I keep improving my knowledge in *Typescript* focusing on **ReactJS** :electron:
+- I keep improving my knowledge in *Typescript* focusing on **React** :electron:
 - Ask me anything you want, if I can help you I will 💬
 - Proudly Systems Engineer 🧑🏻‍🎓
+
+## Technologies 
+
+```mermaid
+flowchart 
+f1(HTML)
+f2(Css)
+f3(Typescript)
+f4(Markdown)
+fw1((React))
+fw2((NextJs))
+fw4((tailwind))
+fw5((Scss))
+fw6((mermaid))
+b1{NodeJs}
+b2{RestAPIs}
+b3{Firebase}
+b4{NestJS}
+ subgraph  BackEnd
+b1
+b2
+b3
+b4
+ end  
+ subgraph Frameworks 
+fw1
+fw2
+fw4
+fw5
+fw6
+ end
+  subgraph  FrontEnd 
+ f1
+ f2
+ f3
+ f4
+ end  
+ f1 --o f2
+ f1 --o f3
+ f1 --o f4
+ f2 --> fw4
+ f2 --> fw5
+ f3 --o fw1
+ f3 --o fw2
+ fw2 --o b1
+ f4 --> fw6
+ b1 --o b2
+ b2 --o b4
+ ```
 
 
 ## Find me at
@@ -44,4 +93,16 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ricardoiso&label=Profile%20Views!&color=008080&style=flat" alt="ricardoiso" /> </p>
 
-------
+## Dump space 👽
+
+
+```mermaid
+flowchart TB
+ A>"Computer"]  
+ B[("Programs")] 
+ C[("Tools")]
+ A --> B
+ A --> C
+``` 
+
+<img alt="dsmark" align="center"  height="50%" width="100%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
